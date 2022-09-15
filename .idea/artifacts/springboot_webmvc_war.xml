@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-webmvc:war">
+    <output-path>$PROJECT_DIR$/dive-in-spring-boot/springboot-webmvc/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springboot-webmvc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springboot-webmvc-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot-webmvc:war exploded" />
+    </root>
+  </artifact>
+</component>

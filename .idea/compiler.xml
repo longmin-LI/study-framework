@@ -6,14 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-webmvc" />
         <module name="spring-boot-overview" />
+        <module name="springboot-webmvc" />
         <module name="spring-application" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dive-in-spring-boot" target="1.8" />
-      <module name="spring-application" target="8" />
-      <module name="spring-boot-overview" target="8" />
+      <module name="spring-application" target="1.8" />
+      <module name="spring-boot-overview" target="1.8" />
+      <module name="spring-webmvc" target="1.8" />
+      <module name="springboot-webmvc" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -21,6 +25,8 @@
       <module name="dive-in-spring-boot" options="-parameters" />
       <module name="spring-application" options="-parameters" />
       <module name="spring-boot-overview" options="-parameters" />
+      <module name="spring-webmvc" options="-parameters" />
+      <module name="springboot-webmvc" options="-parameters" />
     </option>
   </component>
 </project>
