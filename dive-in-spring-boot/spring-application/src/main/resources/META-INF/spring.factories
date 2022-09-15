@@ -6,7 +6,8 @@ org.example.diveinspringboot.context.AfterHelloWorldApplicationContextInitialize
 # Application Listeners
 org.springframework.context.ApplicationListener=\
 org.example.diveinspringboot.event.AfterHelloWorldApplicationListener,\
-org.example.diveinspringboot.event.HelloWorldApplicationListener
+org.example.diveinspringboot.event.HelloWorldApplicationListener,\
+org.example.diveinspringboot.event.BeforeConfigFileApplicationListener
 
 # Run Listeners
 org.springframework.boot.SpringApplicationRunListener=\
