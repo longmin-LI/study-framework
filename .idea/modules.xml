@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/dive-in-spring-boot/spring-application/spring-application.iml" filepath="$PROJECT_DIR$/dive-in-spring-boot/spring-application/spring-application.iml" />
       <module fileurl="file://$PROJECT_DIR$/dive-in-spring-boot/spring-boot-overview/spring-boot-overview.iml" filepath="$PROJECT_DIR$/dive-in-spring-boot/spring-boot-overview/spring-boot-overview.iml" />
       <module fileurl="file://$PROJECT_DIR$/dive-in-spring-boot/spring-webmvc/spring-webmvc.iml" filepath="$PROJECT_DIR$/dive-in-spring-boot/spring-webmvc/spring-webmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dive-in-spring-boot/springboot-rest/springboot-rest.iml" filepath="$PROJECT_DIR$/dive-in-spring-boot/springboot-rest/springboot-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dive-in-spring-boot/springboot-view/springboot-view.iml" filepath="$PROJECT_DIR$/dive-in-spring-boot/springboot-view/springboot-view.iml" />
       <module fileurl="file://$PROJECT_DIR$/dive-in-spring-boot/springboot-webmvc/springboot-webmvc.iml" filepath="$PROJECT_DIR$/dive-in-spring-boot/springboot-webmvc/springboot-webmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/study-framework.iml" filepath="$PROJECT_DIR$/.idea/study-framework.iml" />
     </modules>

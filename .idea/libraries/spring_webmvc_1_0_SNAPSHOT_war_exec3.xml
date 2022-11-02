@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-webmvc-1.0-SNAPSHOT-war-exec3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dive-in-spring-boot/spring-webmvc/target/spring-webmvc-1.0-SNAPSHOT-war-exec.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
