@@ -8,14 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-webmvc" />
         <module name="spring-boot-overview" />
-        <module name="springboot-webmvc" />
-        <module name="spring-application" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dive-in-spring-boot" target="1.8" />
       <module name="spring-application" target="1.8" />
-      <module name="spring-boot-overview" target="1.8" />
+      <module name="spring-boot-overview" target="8" />
       <module name="spring-webmvc" target="1.8" />
       <module name="springboot-webmvc" target="1.8" />
     </bytecodeTargetLevel>

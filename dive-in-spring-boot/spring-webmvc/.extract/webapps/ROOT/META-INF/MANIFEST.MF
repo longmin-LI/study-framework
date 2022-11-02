@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-webmvc
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: longmin LI
+Implementation-Vendor-Id: org.example
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dive-in-spring-boot/spring-webmvc
+
